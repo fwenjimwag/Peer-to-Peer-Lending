@@ -11,28 +11,28 @@ This decentralized application (DApp) enables small businesses to access funding
 The platform consists of four main smart contract components:
 
 1. **Loan Request Contract:** Manages loan applications from businesses
-    - Handles business profile creation and verification
-    - Standardizes loan application parameters (amount, term, purpose)
-    - Manages application statuses and funding progress
-    - Stores business documentation (hashed/encrypted)
+   - Handles business profile creation and verification
+   - Standardizes loan application parameters (amount, term, purpose)
+   - Manages application statuses and funding progress
+   - Stores business documentation (hashed/encrypted)
 
 2. **Lender Contract:** Handles lender investments and portfolio management
-    - Facilitates deposit of lending capital
-    - Manages lender profiles and risk preferences
-    - Enables portfolio diversification across multiple loans
-    - Tracks investment returns and performance
+   - Facilitates deposit of lending capital
+   - Manages lender profiles and risk preferences
+   - Enables portfolio diversification across multiple loans
+   - Tracks investment returns and performance
 
 3. **Risk Assessment Contract:** Evaluates loan risk and sets interest rates
-    - Analyzes business financial data and creditworthiness
-    - Implements algorithmic risk scoring
-    - Determines appropriate interest rates based on risk profile
-    - Provides transparency into scoring methodology
+   - Analyzes business financial data and creditworthiness
+   - Implements algorithmic risk scoring
+   - Determines appropriate interest rates based on risk profile
+   - Provides transparency into scoring methodology
 
 4. **Repayment Contract:** Manages loan repayments and defaults
-    - Automates scheduled repayment collection
-    - Handles early repayment scenarios and fees
-    - Manages default procedures and collateral liquidation
-    - Distributes repayments to lenders proportionally
+   - Automates scheduled repayment collection
+   - Handles early repayment scenarios and fees
+   - Manages default procedures and collateral liquidation
+   - Distributes repayments to lenders proportionally
 
 ## Features
 
